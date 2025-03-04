@@ -9,3 +9,6 @@
 ### Getting Started
 
 If you want to do the assignments, please start with "*Overview of Tai-e Assignments*" [[中文](https://tai-e.pascal-lab.net/intro/overview.html)][[English](https://tai-e.pascal-lab.net/en/intro/overview.html)].
+
+---
+这是我在NJU<软件分析>课程中的代码.实现了java语言的部分静态分析.
